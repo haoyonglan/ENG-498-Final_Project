@@ -1,1 +1,1 @@
-# ENG-498-Final_Project
+# This is the final project repository of ENG 498.
